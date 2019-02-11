@@ -1,6 +1,6 @@
 # Thinking_Website
 
-*** This website can be opened on Chrome or Firefox. The color, line and layout may not be displayed perfectly on Firefox ***
+***This website can be opened on Chrome, Firefox and Microsoft Edge. The color, line and layout may not be displayed perfectly on Firefox ***
 
 
 HOW TO OPEN WEBSITE ON CHROME
@@ -14,4 +14,7 @@ HOW TO OPEN WEBSITE ON CHROME
 
 
 HOW TO OPEN WEBSITE ON FIREFOX
+1. Open at index.html file.
+
+HOW TO OPEN WEBSITE ON MICROSOFT EDGE
 1. Open at index.html file.
