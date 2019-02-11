@@ -3,7 +3,6 @@
 *** This website can be opened on Chrome only!! ***
 
 
-
 HOW TO OPEN WEBSITE ON CHROME
 
 1. Add this extension : https://chrome.google.com/webstore/detail/justinmind-extension/pnfffbfcdapknabgmlnpagljkjdejaap?utm_source=chrome-ntp-icon
