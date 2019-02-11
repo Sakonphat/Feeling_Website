@@ -1,6 +1,6 @@
 # Thinking_Website
 
-*** This website can be opened on Chrome only!! ***
+*** This website can be opened on Chrome or Firefox. The color, line and layout may not be displayed perfectly on Firefox ***
 
 
 HOW TO OPEN WEBSITE ON CHROME
@@ -10,4 +10,8 @@ HOW TO OPEN WEBSITE ON CHROME
    
 2. Turn on toggle button of Jusinmind extension.
    
-3. Open at index.html file on chrome.
+3. Open at index.html file.
+
+
+HOW TO OPEN WEBSITE ON FIREFOX
+1. Open at index.html file.
