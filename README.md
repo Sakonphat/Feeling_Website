@@ -1,4 +1,4 @@
-# Feeling_Website
+# Thinking_Website
 
 *** This website can be opened on Chrome only!! ***
 
