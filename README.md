@@ -2,6 +2,8 @@
 
 ***This website can be opened on Chrome, Firefox and Microsoft Edge. The color, line and layout may not be displayed perfectly on Firefox ***
 
+A brief example of the website : https://drive.google.com/open?id=1XKVXFrbjq_mlMEoapg5Bz_YT1Ju8QCvy2913yM2k2WY
+
 
 HOW TO OPEN WEBSITE ON CHROME
 
